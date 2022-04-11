@@ -1,2 +1,2 @@
-# COunting with PHP
+# Counting with PHP
 Menghitung menggunakan PHP.
